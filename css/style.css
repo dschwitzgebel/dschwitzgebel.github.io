@@ -27,6 +27,7 @@
 
 .subHeadings {
   position: relative;
+  border-color: purple;
   font-size: 24pt;
   font-family: Garamond;
   background-color: white;
