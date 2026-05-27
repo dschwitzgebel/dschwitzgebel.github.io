@@ -1,0 +1,40 @@
+.mainText {
+  position: relative;
+  font-size: 17pt;
+  font-family: Garamond;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+.publications {
+  position: relative;
+  text-align: left;
+  font-size: 17pt;
+  font-family: Garamond;
+  background-color: white;
+  color: black;
+}
+
+.headings {
+  position: relative;
+  font-size: 30pt;
+  font-family: Garamond;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+.subHeadings {
+  position: relative;
+  font-size: 24pt;
+  font-family: Garamond;
+  background-color: white;
+  color: black;
+  text-align: center;
+  cursor: pointer;
+}
+
+#quote {
+  font-family: Georgia
+}
