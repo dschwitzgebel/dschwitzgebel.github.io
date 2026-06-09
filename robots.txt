@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dschwitzgebel.github.io/sitemap.xml
